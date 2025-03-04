@@ -19,7 +19,7 @@ I'm a passionate developer currently studying at [1337 Coding School](https://13
       - 🔭 Exploring systems programming concepts
     </td>
     <td>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+World!;C+Developer;Systems+Explorer;HTML%2FCSS+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3E3&width=435&lines=Hello+3alam!;C+Developer;Systems+Explorer;HTML%2FCSS+Enthusiast" alt="Typing SVG" />
     </td>
   </tr>
 </table>
