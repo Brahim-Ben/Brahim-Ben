@@ -13,7 +13,7 @@ I'm a passionate developer currently studying at [1337 Coding School](https://13
 <table width="100%">
   <tr>
     <td width="60%">
-      - 🧠 Mastering <strong>C Programming</strong><br>
+      - 🧠 beginner <strong>C Programming</strong><br>
       - 🚀 Learning <strong>C++</strong> fundamentals<br>
       - 🎨 Building beautiful interfaces with <strong>HTML/CSS</strong><br>
       - 🔭 Exploring systems programming concepts
