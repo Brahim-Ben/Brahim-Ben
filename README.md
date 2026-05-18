@@ -4,7 +4,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Low-level+C+%2F+C%2B%2B+Developer;Building+systems+from+the+ground+up;42+Network+Student+%40+1337+Morocco;Future+Tech+Founder+%F0%9F%92%B0;Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Low-level+C+%2F+C%2B%2B+Developer;Building+systems+from+the+ground+up;42+Network+Student+%40+1337+Morocco;Future+Tech+Founder+%F0%9F%92%B0;Talk+is+cheap.+Show+me+the+code.)](https://github.com/Brahim-Ben)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Low-level+C+%2F+C%2B%2B+Developer;Building+systems+from+the+ground+up;42+Network+Student+%40+1337+Morocco;Future+Tech+Founder+%F0%9F%92%B0;Talk+is+cheap.+Show+me+the+code.)](https://github.com/Brahim-Ben) -->
 
 <br>
 
