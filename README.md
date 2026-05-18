@@ -72,37 +72,37 @@ I'm a **low-level systems programmer** who believes the best way to understand a
 <table>
   <tr>
     <td width="50%">
-      <h3>📚 <a target="_black" href="https://github.com/Brahim-Ben/my-own-library-in-C">my-own-library-in-C</a></h3>
+      <h3>📚 <a target="_blank" href="https://github.com/Brahim-Ben/my-own-library-in-C">my-own-library-in-C</a></h3>
       <p>A complete reimplementation of the C standard library — built with zero external dependencies. Covers string manipulation, memory management, and I/O utilities.</p>
       <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
     </td>
     <td width="50%">
-      <h3>🖨️ <a target="_black" href="https://github.com/Brahim-Ben/my_printf">my_printf</a></h3>
+      <h3>🖨️ <a target="_blank" href="https://github.com/Brahim-Ben/my_printf">my_printf</a></h3>
       <p>A faithful reimplementation of <code>printf</code> supporting all major format specifiers. Deep dive into variadic functions, flags, and output formatting.</p>
       <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📜 <a target="_black" href="https://github.com/Brahim-Ben/my_readline">my_readline</a></h3>
+      <h3>📜 <a target="_blank" href="https://github.com/Brahim-Ben/my_readline">my_readline</a></h3>
       <p>Custom <code>readline</code> function with persistent command history — built for use as a component in shell projects. Handles edge cases and signal interrupts.</p>
       <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
     </td>
     <td width="50%">
-      <h3>🔢 <a target="_black" href="https://github.com/Brahim-Ben/sorting_algorithm">sorting_algorithm</a></h3>
+      <h3>🔢 <a target="_blank" href="https://github.com/Brahim-Ben/sorting_algorithm">sorting_algorithm</a></h3>
       <p>Optimized sorting algorithms in C — from bubble to radix. Includes complexity analysis and practical performance benchmarks.</p>
       <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🌀 <a target="_black" href="https://github.com/Brahim-Ben/Fractols_julia_and_mandelbrot">Fractols — Julia & Mandelbrot</a></h3>
+      <h3>🌀 <a target="_blank" href="https://github.com/Brahim-Ben/Fractols_julia_and_mandelbrot">Fractols — Julia & Mandelbrot</a></h3>
       <p>Real-time interactive fractal renderer. Implements zoom, color mapping, and adjustable iteration depth for both the Julia and Mandelbrot sets. Rendered pixel by pixel — no shortcuts.</p>
       <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
       <img src="https://img.shields.io/badge/Type-Computer_Graphics-5586A4?style=flat-square" />
     </td>
     <td width="50%">
-      <h3>🌀 <a target="_black" href="https://pomodoro-focus-bra.vercel.app/">Pomodoro Focus</a></h3>
+      <h3>🌀 <a target="_blank" href="https://pomodoro-focus-bra.vercel.app/">Pomodoro Focus</a></h3>
       <p>Stop managing time.<br>
           Start owning it.<br>
           Pomodoro timer, smart to-do list, habit tracker, and day planner — one beautifully designed workspace.</p>
