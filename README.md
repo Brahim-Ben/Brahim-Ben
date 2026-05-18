@@ -13,7 +13,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brahim-Ben&color=blueviolet&style=for-the-badge&label=Profile+Views)
 
-![pomodoro focus](https://pomodoro-focus-bra.vercel.app)
 
 </div>
 
@@ -96,7 +95,15 @@ I'm a **low-level systems programmer** who believes the best way to understand a
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%">
+      <h3>🌀 <a href="https://github.com/Brahim-Ben/Fractols_julia_and_mandelbrot">Fractols — Julia & Mandelbrot</a></h3>
+      <p>Real-time interactive fractal renderer. Implements zoom, color mapping, and adjustable iteration depth for both the Julia and Mandelbrot sets. Rendered pixel by pixel — no shortcuts.</p>
+      <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
+      <img src="https://img.shields.io/badge/Type-Computer_Graphics-5586A4?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <h3>🌀 <a href="https://github.com/Brahim-Ben/Fractols_julia_and_mandelbrot">Fractols — Julia & Mandelbrot</a></h3>
       <p>Real-time interactive fractal renderer. Implements zoom, color mapping, and adjustable iteration depth for both the Julia and Mandelbrot sets. Rendered pixel by pixel — no shortcuts.</p>
       <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
