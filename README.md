@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-benaali-15a9a8388/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BrahimBena92602)
-[![42](https://img.shields.io/badge/42_Intra-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/bben-aali)
+<!-- [![42](https://img.shields.io/badge/42_Intra-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/bben-aali) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brahim-Ben&color=blueviolet&style=for-the-badge&label=Profile+Views)
