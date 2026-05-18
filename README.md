@@ -72,7 +72,7 @@ I'm a **low-level systems programmer** who believes the best way to understand a
 <table>
   <tr>
     <td width="50%">
-      <h3>📚 <a target="_blank" href="https://github.com/Brahim-Ben/my-own-library-in-C">my-own-library-in-C</a></h3>
+      <h3>📚 <a  href="https://github.com/Brahim-Ben/my-own-library-in-C" target="_blank">my-own-library-in-C</a></h3>
       <p>A complete reimplementation of the C standard library — built with zero external dependencies. Covers string manipulation, memory management, and I/O utilities.</p>
       <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
     </td>
