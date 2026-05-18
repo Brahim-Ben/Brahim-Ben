@@ -103,10 +103,9 @@ I'm a **low-level systems programmer** who believes the best way to understand a
     </td>
     <td width="50%">
       <h3>🌀 <a href="https://pomodoro-focus-bra.vercel.app/">Pomodoro Focus</a></h3>
-      <p>Stop managing time.
-          Start owning it.
+      <p>Stop managing time.<br>
+          Start owning it.<br>
           Pomodoro timer, smart to-do list, habit tracker, and day planner — one beautifully designed workspace.</p>
-      <p>brahim </p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
