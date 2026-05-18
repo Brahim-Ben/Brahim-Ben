@@ -9,8 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-benaali-15a9a8388/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BrahimBena92602)
 [![42](https://img.shields.io/badge/42_Intra-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/bben-aali)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Brahim-Ben&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
 
 </div>
 
@@ -29,7 +31,7 @@ struct s_brahim {
 };
 ```
 
-I'm a **low-level systems programmer** who believes the best way to understand a tool is to **build it yourself**. From reimplementing `printf` to rendering **fractals pixel by pixel**, I write code that goes deep. Currently sharpening my C++ skills and diving into **computer graphics, networking, and system design** at 1337 — one of the most rigorous coding schools in the world.
+I'm a **low-level systems programmer** who believes the best way to understand a tool is to **build it yourself**. From reimplementing `printf` to rendering **fractals by hand**, I write code that goes deep. Currently sharpening my C++ skills and diving into **computer graphics, networking, and system design** at 1337 — one of the most rigorous coding schools in the world.
 
 > *Not just learning to code — learning to think like a machine.*
 
@@ -100,9 +102,10 @@ I'm a **low-level systems programmer** who believes the best way to understand a
       <img src="https://img.shields.io/badge/Type-Computer_Graphics-5586A4?style=flat-square" />
     </td>
     <td width="50%">
-      <h3>🐚 More coming soon...</h3>
-      <p>Currently building deeper projects in C++ and networking. Stay tuned — the best is yet to come.</p>
-      <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
+      <h3>🌀 <a href="https://github.com/Brahim-Ben/Fractols_julia_and_mandelbrot">Fractols — Julia & Mandelbrot</a></h3>
+      <p>Real-time interactive fractal renderer. Implements zoom, color mapping, and adjustable iteration depth for both the Julia and Mandelbrot sets. Rendered pixel by pixel — no shortcuts.</p>
+      <img src="https://img.shields.io/badge/Language-C-00599C?style=flat-square&logo=c" />
+      <img src="https://img.shields.io/badge/Type-Computer_Graphics-5586A4?style=flat-square" />
     </td>
   </tr>
 </table>
@@ -144,7 +147,7 @@ I'm a **low-level systems programmer** who believes the best way to understand a
          └── Built custom libc, printf, readline
 
 2024 ─── Leveled up systems knowledge
-         └── Sorting algorithms & memory management
+         └── Sorting algorithms, memory management
          └── Computer graphics — fractals renderer
          └── Started diving into Linux & networking
 
@@ -177,6 +180,7 @@ I'm always open to interesting conversations, collaborations, and opportunities.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-benaali-15a9a8388/)
 [![X](https://img.shields.io/badge/X-Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BrahimBena92602)
 [![42](https://img.shields.io/badge/42_Intra-My_profile-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/bben-aali)
+[![Email](https://img.shields.io/badge/Email-Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 
 <br>
 
