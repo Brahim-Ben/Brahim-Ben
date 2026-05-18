@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Brahim%20BENAALI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Programmer%20%7C%2042%20Network%20%7C%20Future%20Founder%20%F0%9F%9A%80&descAlignY=58&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Low-level+C+%2F+C%2B%2B+Developer;Building+systems+from+the+ground+up;42+Network+Student+%40+1337+Morocco;Future+Tech+Founder+%F0%9F%92%B0;Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Low-level+C+%2F+C%2B%2B+Developer;Building+systems+from+the+ground+up;42+Network+Student+%40+1337+Morocco;Future+Tech+Founder+%F0%9F%92%B0;Talk+is+cheap.+Show+me+the+code.)](https://git.io/typing-svg) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Low-level+C+%2F+C%2B%2B+Developer;Building+systems+from+the+ground+up;42+Network+Student+%40+1337+Morocco;Future+Tech+Founder+%F0%9F%92%B0;Talk+is+cheap.+Show+me+the+code.)](https://github.com/Brahim-Ben)
 
 <br>
 
